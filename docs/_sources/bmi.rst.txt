@@ -1,0 +1,8 @@
+bmi module
+=================
+Sphinxのテストとして身長(m), 体重(kg)からBMIを計算するプログラムを書いてみる
+
+.. automodule:: bmi
+   :members:
+   :undoc-members:
+   :show-inheritance:
