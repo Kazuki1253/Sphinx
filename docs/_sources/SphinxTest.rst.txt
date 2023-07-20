@@ -1,0 +1,7 @@
+SphinxTest module
+=================
+
+.. automodule:: SphinxTest
+   :members:
+   :undoc-members:
+   :show-inheritance:
